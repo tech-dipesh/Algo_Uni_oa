@@ -1,0 +1,9 @@
+auth:mira.okafor:#sec-auth
+billing:priya.iyer:#pay-ops
+export:lena.haas:#data-out
+notify:kofi.mensah:#msg-eng
+onboarding:ines.duarte:#growth
+profile:ravi.nair:#accounts
+reports:hana.lind:#insights
+search:yuki.sato:#find
+sync:omar.farid:#sync-core

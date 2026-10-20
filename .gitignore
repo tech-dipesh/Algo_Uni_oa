@@ -37,3 +37,12 @@ package-lock.json
 # Common Files
 *.md
 !README.md
+
+
+
+attempts/
+__pycache__/
+book/lab-book.html
+runbook.txt
+/*.runbook.txt
+lab/data/runbook.txt
